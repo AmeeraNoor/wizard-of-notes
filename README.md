@@ -38,4 +38,4 @@ Notes Page
 https://wizard-of-notes.herokuapp.com/
 
 ## Contact
-- [GitHub](https://github.com/AmeeraNoor) 'GitHub')
+- [GitHub](https://github.com/AmeeraNoor'GitHub')
