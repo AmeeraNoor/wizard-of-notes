@@ -28,11 +28,7 @@ WHEN I click on the Write icon in the navigation at the top of the page<br />
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshots
-Landing Page
-![](./public/assets/images/homepage.PNG)
-
-Notes Page
-![](./public/assets/images/notespage.PNG)
+![image](https://user-images.githubusercontent.com/114899256/211252891-5464b1f0-8877-44a5-ad93-ad95b4d4d95c.png)
 
 ## Deployment
 https://wizard-of-notes.herokuapp.com/
